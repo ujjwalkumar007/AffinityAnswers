@@ -1,0 +1,7 @@
+We need database beacause file's not very efficient at handling large amount of data and also the content a file is not indexed which is one of the main advantages 
+of database over file storage. 
+other advantages of database are:-
+  >We can Insert a column or record in database.
+  >We can Find a row based on any condition
+  >We can Delete a row or rows from a databse
+  >We can Sort rows on the basis of any column
